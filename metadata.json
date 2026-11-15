@@ -1,0 +1,6 @@
+{
+  "name": "FileMaster",
+  "description": "Professional Android file manager and batch image processing studio with live-preview batch renaming, format conversion, and resizing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
